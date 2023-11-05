@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TechnicalQuestionAPI-ADO.props" />
+</Project>
