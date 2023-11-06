@@ -2617,11 +2617,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bayan\\OneDrive\\Desktop\\C# Training\\TechnicalQuestionAPI-ADO\\TechnicalQuestionAPI-ADO\\TechnicalQuestionAPI-ADO.csproj",
+      "projectUniqueName": "C:\\C# API\\new-project-web-api-ADO\\TechnicalQuestionAPI-ADO\\TechnicalQuestionAPI-ADO\\TechnicalQuestionAPI-ADO.csproj",
       "projectName": "TechnicalQuestionAPI-ADO",
-      "projectPath": "C:\\Users\\bayan\\OneDrive\\Desktop\\C# Training\\TechnicalQuestionAPI-ADO\\TechnicalQuestionAPI-ADO\\TechnicalQuestionAPI-ADO.csproj",
+      "projectPath": "C:\\C# API\\new-project-web-api-ADO\\TechnicalQuestionAPI-ADO\\TechnicalQuestionAPI-ADO\\TechnicalQuestionAPI-ADO.csproj",
       "packagesPath": "C:\\Users\\bayan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bayan\\OneDrive\\Desktop\\C# Training\\TechnicalQuestionAPI-ADO\\TechnicalQuestionAPI-ADO\\obj\\",
+      "outputPath": "C:\\C# API\\new-project-web-api-ADO\\TechnicalQuestionAPI-ADO\\TechnicalQuestionAPI-ADO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
