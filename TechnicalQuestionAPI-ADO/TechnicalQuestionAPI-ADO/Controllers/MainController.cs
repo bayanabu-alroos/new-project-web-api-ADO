@@ -15,8 +15,6 @@ namespace TechnicalQuestionAPI_ADO.Controllers
         {
             _configuration = configuration;
         }
-
-
         [HttpGet]
         [Route("ALLSkills")]
         public IActionResult ALLSkills()
@@ -46,9 +44,6 @@ namespace TechnicalQuestionAPI_ADO.Controllers
             dataAdapter.Fill(datatable);
             return Ok(datatable);
         }
-
-
-
         [HttpPost]
         [Route("[action]")]
         public IActionResult InsertSkills([FromBody] SkillDTO dto)
@@ -92,7 +87,6 @@ namespace TechnicalQuestionAPI_ADO.Controllers
             else
                 return BadRequest("Insert Operation has been Failed");
         }
- 
 
         [HttpPut]
         [Route("[action]/{Id}")]
@@ -112,9 +106,6 @@ namespace TechnicalQuestionAPI_ADO.Controllers
                 return BadRequest("Insert Operation has beem Failed");
         }
 
-
-
-
         [HttpDelete]
         [Route("[action]/{Id}")]
         public IActionResult DeleteSkills([FromRoute] int Id)
@@ -132,8 +123,5 @@ namespace TechnicalQuestionAPI_ADO.Controllers
             else
                 return BadRequest("Insert Operation has been Failed");
         }
-    
-
-
     }
 }
