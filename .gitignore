@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TechnicalQuestionAPI-ADO/TechnicalQuestionAPI-ADO/obj/Debug/net7.0/TechnicalQuestionAPI-ADO.sourcelink.json
+/TechnicalQuestionAPI-ADO/TechnicalQuestionAPI-ADO/obj/Debug/net7.0/TechnicalQuestionAPI-ADO.sourcelink.json
+/TechnicalQuestionAPI-ADO/TechnicalQuestionAPI-ADO/obj/Debug/net7.0/TechnicalQuestionAPI-ADO.assets.cache
+/TechnicalQuestionAPI-ADO/TechnicalQuestionAPI-ADO/obj/Debug/net7.0/TechnicalQuestionAPI-ADO.AssemblyInfoInputs.cache
+/TechnicalQuestionAPI-ADO/UpgradeLog.htm
+/TechnicalQuestionAPI-ADO/TechnicalQuestionAPI-ADO/obj/Debug/net7.0/TechnicalQuestionAPI-ADO.GeneratedMSBuildEditorConfig.editorconfig
+/TechnicalQuestionAPI-ADO/.vs/TechnicalQuestionAPI-ADO/FileContentIndex/143c70eb-b554-445e-b4d5-2017203e75df.vsidx
